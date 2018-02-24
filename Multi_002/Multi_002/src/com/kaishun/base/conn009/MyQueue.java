@@ -10,7 +10,7 @@ public class MyQueue {
 	private LinkedList<Object> list = new LinkedList<Object>();
 	
 	//2 需要一个计数器
-	private AtomicInteger count = new AtomicInteger(0);
+	private AtomicInteger count = new AtomicInteger(0) ;
 	
 	//3 需要制定上限和下限
 	private final int minSize = 0;
