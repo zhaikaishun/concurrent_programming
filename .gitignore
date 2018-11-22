@@ -1,2 +1,3 @@
-concurrent-programming/target/*
+concurrent-programming/target/
 concurrent_programming.iml
+concurrent_programming/.idea/workspace.xml
